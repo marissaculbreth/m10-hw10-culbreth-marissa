@@ -1,0 +1,24 @@
+{
+  "name": "m10-hw10-culbreth-marissa",
+  "version": "1.0.0",
+  "description": "# https://codeburst.io/javascript-understand-arrow-function-syntax-ab4081bba85b # https://www.w3schools.com/js/js_arrow_function.asp   I used these two links to help me try to write out the arrow function. I had a difficult time trying to figure out how to change my javascript code to the arrow function syntax.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marissaculbreth/m10-hw10-culbreth-marissa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marissaculbreth/m10-hw10-culbreth-marissa/issues"
+  },
+  "homepage": "https://github.com/marissaculbreth/m10-hw10-culbreth-marissa#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
