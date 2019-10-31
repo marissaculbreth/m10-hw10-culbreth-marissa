@@ -6,3 +6,7 @@
 
 # https://www.w3schools.com/jsref/met_document_createtextnode.asp
   I also used this site to see the layout of how you would append a text node to an element so I could use it for reference when writing out the ES6 function
+
+# JavaScript file
+  I had to comment out the JS code since they were not working and therefore the terminal would not allow me to "build" the ES5 code.
+  
