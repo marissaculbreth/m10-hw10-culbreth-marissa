@@ -19,7 +19,7 @@
 // // Use a setTimeout() method to make the following occur after 3 seconds (3000 milliseconds):
 // // If the number stored in “water-temp” is neither above 212 nor below 32, remove the class “hide” and add the class “show” to the section with the ID “good-temp” so that the message “The water is fine. Jump on in.” appears
 // let sectionWaterTemp = document.getElementById('good-temp');
-// function showSectionWaterTemp(() {
+// setTimeout(() => {
 //   sectionWaterTemp.classList.remove('hide');
 //   sectionWaterTemp.classList.add('show');
 // }, 3000);
